@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestrated Development"
+  short_description: "Direct the product while Codex coordinates delivery"
+  default_prompt: "Use $orchestrate-work to run this development session with concise conversation, parallel agents, a usable preview and precise documentation."
